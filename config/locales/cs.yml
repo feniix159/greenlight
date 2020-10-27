@@ -312,8 +312,8 @@ cs:
     search:
       start: Vyhledávám...
   landing:
-    about: "%{href} je jednoduchá nadstavba pro Váš open source webový konferenční server BigBlueButton. Můžete vytvářet vlastní virtuální místnosti pro pořádání konferencí, nebo se můžete připojit ke konferencím ostatních uživatelů jednoduchým a pohodlným kliknutím na přijatý odkaz."
-    welcome: Vítejte v BigBlueButton.
+    about: "Přihlašte se nebo se připojte do konferenčí místnosti přes odkaz. Pokud nemáte odkaz na konferenční místnost, kontaktujte svého administrátora."
+    welcome: Vítejte na konferenční platformě LIVE4K.
     video: "Zhlédněte naše instruktážní video, jak používat Greenlight"
     upgrade: Návod jak provést upgrade na Greenlight verze 2.0.
     version: "K dispozici je nová verze Greenlight, ale Vaše databáze není kompatibilní."
